@@ -80,5 +80,5 @@
 
 /* extra buttons above DM list */
 .avatar-3uk_u9:hover {
-  animation: rotation 1.3s l linear;
+  animation: rotation 1.3s 1 linear;
 }
