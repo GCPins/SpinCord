@@ -1,0 +1,79 @@
+/* animation */
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* settings icon rotate */ 
+.button-14-BFJ:hover {
+  animation: rotation 1.3s 1 linear;
+}
+
+/* top-right icons rotate */
+.clickable-3rdHwn:hover {
+  animation: rotation 1.3s 1 linear;
+}
+
+/* search bar */
+.icon-38sknP:hover {
+  animation: rotation 1.2s 1 linear;
+}
+
+/* guild settings drop down icon rotate */
+.iconContainer-2-XQPY:hover {
+  animation: rotation 1.3s 1 linear;
+}
+
+/* guild boost badge rotate */
+.guildIconContainer-2FW_iA:hover {
+  animation: rotation 1.3s 1 linear;
+}
+
+/* channel icon spins */
+.iconContainer-1BBaeJ:hover {
+  animation: rotation 1.3s 1 linear;
+}
+
+/* channel buttons spin */
+.iconItem-F7GRxr:hover {
+  animation: rotation 1.3s 1 linear;
+}
+
+/* category icon spins */
+.addButtonIcon-2CbG1X:hover {
+  animation: rotation 1.3s 1 linear;
+}
+
+/* channel name/topic icon spins */
+.icon-22AiRD:hover {
+  animation: rotation 1.3s 1 linear;
+}
+
+/* attach file button spins */
+.attachButtonInner-PQjIyk:hover {
+  animation: rotation 1.3s 1 linear;
+}
+
+/* other message bow buttons spin */
+.button-318s1X:hover {
+  animation: rotation 1.3s 1 linear;
+}
+
+/* message option icons spin */
+.button-1ZiXG9:hover {
+  animation: rotation 1.3s 1 linear;
+}
+
+/* spin DM list buttons */
+.closeButton-2GCmT5:hover {
+  animation: rotation 1.3s 1 linear;
+}
+
+/* friends accept/deny list buttons */
+.icon-35-fSh:hover {
+  animation: rotation 1.3s 1 linear;
+}

@@ -1,0 +1,9 @@
+{
+    "name": "SpinCord",
+    "description": "Discord, but everything spins.",
+    "version": "0.1",
+    "author": "GC; Pins#0001",
+    "theme": "main.css",
+    "consent": "false",
+    "license": "MIT"
+}
