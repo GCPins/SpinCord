@@ -1,8 +1,8 @@
 # SpinCord
-Spin inspired Discord theme. Almost everything spins. 
+"Spin-inspired" Powercord theme for Discord. Almost everything spins. May be vomit inducing.
 
 # Installation 
-Simply navigate to your Powercord Themes folder. You can also use this command: 
+Navigate to your Powercord `themes` folder. You can also use this command: 
 ```
 cd powercord/src/powercord/themes
 ```
