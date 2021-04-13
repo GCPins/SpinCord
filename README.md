@@ -15,4 +15,4 @@ git clone https://github.com/GCPins/SpinCord
 To report bugs or submit suggestions, open an issue and explain the bug/suggestion. Remember to include details (screenshots/videos are very helpful)!
 
 ## License
-See the [LICENSE](https://github.com/DiscordStyles/Slate/blob/master/LICENSE.md) file for license rights and limitations (MIT).
+See the [LICENSE](https://github.com/GCPins/SpinCord/blob/master/LICENSE.md) file for license rights and limitations (MIT).
