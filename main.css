@@ -77,3 +77,8 @@
 .icon-35-fSh:hover {
   animation: rotation 1.3s 1 linear;
 }
+
+/* extra buttons above DM list */
+.avatar-3uk_u9:hover {
+  animation: rotation 1.3s l linear;
+}
