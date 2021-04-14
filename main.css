@@ -48,12 +48,12 @@
 /* category icon spins */
 .iconVisibility-fhcwiH:hover .addButtonIcon-2CbG1X {
   animation: rotation 1.7s infinite linear;
-  background-color: transparent !important;
+  background-color: transparent !important;	
 }
 
-/* channel name/topic icon spins */
+/* spin top right icons */
 .icon-22AiRD:hover {
-  animation: rotation 1.5s infinite linear;
+  animation: rotation 1.7s infinite linear;
   background-color: transparent !important;
 }
 
@@ -106,8 +106,8 @@
 }
 
 /* spin profile preview pfps */
-.avatarWrapperNormal-3wFMbf:hover {
-  animation: rotation 2s infinite linear;
+.userPopout-3XzG_A:hover .avatarWrapperNormal-3wFMbf {
+  animation: rotation 2.5s infinite linear;
   background-color: transparent !important;
 }
 
@@ -159,7 +159,7 @@
 }
 
 /* spin guild/DM icons in server list */
-.listItem-GuPuDH:hover {
+.wrapper-25eVIn:hover {
   animation: rotation 2.5s infinite linear;
   background-color: transparent !important;
 }
@@ -233,5 +233,10 @@
 /* spin dm vc region icons */
 .quickSelectPopoutOption-opKBx9:hover .regionSelectFlag-1htPow {
   animation: rotation 1.7s infinite linear;
+  background-color: transparent !important;
+}
+
+.wrapper-2QE8vf:hover {
+  animation: rotation 3s infinite linear;
   background-color: transparent !important;
 }
