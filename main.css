@@ -159,7 +159,7 @@
 }
 
 /* spin guild/DM icons in server list */
-.blobContainer-pmnxKB:hover, .listItem-GuPuDH:hover {
+.listItem-GuPuDH:hover {
   animation: rotation 2.5s infinite linear;
   background-color: transparent !important;
 }
