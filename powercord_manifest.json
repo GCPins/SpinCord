@@ -1,7 +1,7 @@
 {
     "name": "SpinCord",
-    "description": "Discord, but everything spins.",
-    "version": "0.1",
+    "description": "Discord, but stuff spins when you hover over it.",
+    "version": "0.5",
     "author": "GC; Pins#0001",
     "theme": "main.css",
     "consent": "false",
