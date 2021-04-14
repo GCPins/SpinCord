@@ -32,11 +32,12 @@
   background-color: transparent !important;
 }
 
-/* channel icon spins */
+/* channel icon spins 
 .iconContainer-1BBaeJ:hover {
   animation: rotation 1.3s infinite linear;
   background-color: transparent !important;
 }
+*/
 
 /* channel buttons spin */
 .iconItem-F7GRxr:hover {
@@ -45,7 +46,7 @@
 }
 
 /* category icon spins */
-.addButtonIcon-2CbG1X:hover {
+.iconVisibility-fhcwiH:hover .addButtonIcon-2CbG1X {
   animation: rotation 1.3s infinite linear;
   background-color: transparent !important;
 }
@@ -81,19 +82,19 @@
 }
 
 /* friends accept/deny list buttons */
-.icon-35-fSh:hover {
+.peopleListItem-2nzedh:hover .icon-35-fSh {
   animation: rotation 1.3s infinite linear;
   background-color: transparent !important;
 }
 
-/* extra buttons above DM list */
-.avatar-3uk_u9:hover {
+/* spin member list pfp */
+.layout-2DM8Md:hover .avatar-3uk_u9 {
   animation: rotation 1.3s infinite linear;
   background-color: transparent !important;
 }
 
 /* spin in chat pfps */
-.avatar-1BDn8e:hover {
+.cozyMessage-3V1Y8y:hover .avatar-1BDn8e {
   animation: rotation 1.3s infinite linear;
   background-color: transparent !important;
 }
@@ -179,4 +180,16 @@
 .item-PXvHYJ:hover::before {
   animation: rotation 1.3s infinite linear;
   /* background-color: transparent !important; */
+}
+
+
+.profileBadge-2niAfJ:hover {
+  animation: rotation 1.3s infinite linear;
+  background-color: transparent !important;
+}
+
+/* channel icons spin */
+.mainContent-u_9PKf:hover .icon-1DeIlz {
+  animation: rotation 1.3s infinite linear;
+  background-color: transparent !important;
 }
