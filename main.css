@@ -10,75 +10,173 @@
 
 /* settings icon rotate */ 
 .button-14-BFJ:hover {
-  animation: rotation 1.3s 1 linear;
-}
-
-/* top-right icons rotate */
-.clickable-3rdHwn:hover {
-  animation: rotation 1.3s 1 linear;
+  animation: rotation 1.3s infinite linear;
+  background-color: transparent !important;
 }
 
 /* search bar */
 .icon-38sknP:hover {
-  animation: rotation 1.2s 1 linear;
+  animation: rotation 1.3s infinite linear;
+  background-color: transparent !important;
 }
 
 /* guild settings drop down icon rotate */
 .iconContainer-2-XQPY:hover {
-  animation: rotation 1.3s 1 linear;
+  animation: rotation 1.3s infinite linear;
+  background-color: transparent !important;
 }
 
 /* guild boost badge rotate */
 .guildIconContainer-2FW_iA:hover {
-  animation: rotation 1.3s 1 linear;
+  animation: rotation 1.3s infinite linear;
+  background-color: transparent !important;
 }
 
 /* channel icon spins */
 .iconContainer-1BBaeJ:hover {
-  animation: rotation 1.3s 1 linear;
+  animation: rotation 1.3s infinite linear;
+  background-color: transparent !important;
 }
 
 /* channel buttons spin */
 .iconItem-F7GRxr:hover {
-  animation: rotation 1.3s 1 linear;
+  animation: rotation 1.3s infinite linear;
+  background-color: transparent !important;
 }
 
 /* category icon spins */
 .addButtonIcon-2CbG1X:hover {
-  animation: rotation 1.3s 1 linear;
+  animation: rotation 1.3s infinite linear;
+  background-color: transparent !important;
 }
 
 /* channel name/topic icon spins */
 .icon-22AiRD:hover {
-  animation: rotation 1.3s 1 linear;
+  animation: rotation 1.3s infinite linear;
+  background-color: transparent !important;
 }
 
 /* attach file button spins */
 .attachButtonInner-PQjIyk:hover {
-  animation: rotation 1.3s 1 linear;
+  animation: rotation 1.3s infinite linear;
+  background-color: transparent !important;
 }
 
 /* other message bow buttons spin */
 .button-318s1X:hover {
-  animation: rotation 1.3s 1 linear;
+  animation: rotation 1.3s infinite linear;
+  background-color: transparent !important;
 }
 
 /* message option icons spin */
 .button-1ZiXG9:hover {
-  animation: rotation 1.3s 1 linear;
+  animation: rotation 1.3s infinite linear;
+  background-color: transparent !important;
 }
 
 /* spin DM list buttons */
 .closeButton-2GCmT5:hover {
-  animation: rotation 1.3s 1 linear;
+  animation: rotation 1.3s infinite linear;
+  background-color: transparent !important;
 }
 
 /* friends accept/deny list buttons */
 .icon-35-fSh:hover {
-  animation: rotation 1.3s 1 linear;
+  animation: rotation 1.3s infinite linear;
+  background-color: transparent !important;
 }
 
 /* extra buttons above DM list */
 .avatar-3uk_u9:hover {
-  animation: rotation 1.3s 1 linear;
+  animation: rotation 1.3s infinite linear;
+  background-color: transparent !important;
+}
+
+/* spin in chat pfps */
+.avatar-1BDn8e:hover {
+  animation: rotation 1.3s infinite linear;
+  background-color: transparent !important;
+}
+
+/* spin profile view pfps */
+.avatar-3EQepX:hover {
+  animation: rotation 1.3s infinite linear;
+  background-color: transparent !important;
+}
+
+/* spin profile preview pfps */
+.avatarWrapperNormal-3wFMbf:hover {
+  animation: rotation 1.3s infinite linear;
+  background-color: transparent !important;
+}
+
+/* spin large/"jumbo" emotes */
+.emojiContainer-3X8SvE:hover {
+  animation: rotation 1.3s infinite linear;
+  background-color: transparent !important;
+}
+
+/* spin small reaction add icon below message */
+.reactionBtn-3N03Zj:hover {
+  animation: rotation 1.3s infinite linear;
+  background-color: transparent !important;
+}
+
+/* spin connected account(s) icon */
+.connectedAccountIcon-3P3V6F:hover {
+  animation: rotation 1.3s infinite linear;
+  background-color: transparent !important;
+}
+
+/* spin connected account(s) open link icon */
+.connectedAccountOpenIcon-2cNbq5:hover {
+  animation: rotation 1.3s infinite linear;
+  background-color: transparent !important;
+}
+
+/* spin connected user pfps (mini-display) */
+.avatar-3Heyg_:hover {
+  animation: rotation 1.3s infinite linear;
+  background-color: transparent !important;
+}
+
+/* spin guild pfps in emoji selector */
+.mask-2hO5M8:hover {
+  animation: rotation 1.3s infinite linear;
+  background-color: transparent !important;
+}
+
+/* spin guild icons in server list */
+.blobContainer-pmnxKB:hover {
+  animation: rotation 1.3s infinite linear;
+  background-color: transparent !important;
+}
+
+/* spin exit settings button */
+.closeButton-1tv5uR:hover {
+  animation: rotation 1.3s infinite linear;
+  background-color: transparent !important;
+}
+
+/* spin settings tab icons */
+.avatarUploader-3XDtmn:hover {
+  animation: rotation 1.3s infinite linear;
+  background-color: transparent !important;
+}
+
+/* spin profile badges in settings spin */
+.profileBadge-2niAfJ:hover {
+  animation: rotation 1.3s infinite linear;
+  background-color: transparent !important;
+}
+
+/* spin more button on profile in settings */
+.menu-319q29:hover {
+  animation: rotation 1.3s infinite linear;
+  background-color: transparent !important;
+}
+
+.item-PXvHYJ:hover::before {
+  animation: rotation 1.3s infinite linear;
+  /* background-color: transparent !important; */
 }
