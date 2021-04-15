@@ -53,25 +53,25 @@
 
 /* spin top right icons */
 .container-1r6BKw:hover .icon-22AiRD {
-  animation: rotation 2.3s infinite linear;
+  animation: rotation 2.5s infinite linear;
   background-color: transparent !important;
 }
 
 /* attach file button spins */
 .attachButtonInner-PQjIyk:hover {
-  animation: rotation 1.7s infinite linear;
+  animation: rotation 2.3s infinite linear;
   background-color: transparent !important;
 }
 
 /* other message box buttons spin */
 .button-318s1X:hover {
-  animation: rotation 1.7s infinite linear;
+  animation: rotation 2.5s infinite linear;
   background-color: transparent !important;
 }
 
 /* message option icons spin */
 .button-1ZiXG9:hover {
-  animation: rotation 1.5s infinite linear;
+  animation: rotation 2s infinite linear;
   background-color: transparent !important;
 }
 
@@ -83,7 +83,7 @@
 
 /* friends accept/deny list buttons */
 .peopleListItem-2nzedh:hover .icon-35-fSh {
-  animation: rotation 1.5s infinite linear;
+  animation: rotation 2s infinite linear;
   background-color: transparent !important;
 }
 
@@ -119,7 +119,7 @@
 
 /* spin small reaction add icon below message */
 .reactionBtn-3N03Zj:hover {
-  animation: rotation 1.5s infinite linear;
+  animation: rotation 2s infinite linear;
   background-color: transparent !important;
 }
 
@@ -131,7 +131,7 @@
 
 /* spin connected account(s) open link icon */
 .connectedAccountOpenIcon-2cNbq5:hover {
-  animation: rotation 1.5s infinite linear;
+  animation: rotation 1.7s infinite linear;
   background-color: transparent !important;
 }
 
@@ -154,7 +154,7 @@
 
 /* spin emoji face icon in selector */
 .unicodeShortcut-15J8Ck:hover {
-  animation: rotation 1.5s infinite linear;
+  animation: rotation 1.7s infinite linear;
   background-color: transparent !important;
 }
 
@@ -166,7 +166,7 @@
 
 /* spin exit settings button */
 .closeButton-1tv5uR:hover {
-  animation: rotation 1.5s infinite linear;
+  animation: rotation 1.7s infinite linear;
   background-color: transparent !important;
 }
 
@@ -334,4 +334,10 @@
 .activityProfile-2bJRaP:hover .assets-VMAukC {
   animation: rotation 3.3s infinite linear;
   background-color: transparent !important;
+}
+
+/* spin pfp in settings */
+.fileInput-23-d-3:hover {
+  animation: rotation 3.3s infinite linear;
+  background-color: transparent !important;		
 }
