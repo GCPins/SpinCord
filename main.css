@@ -171,7 +171,7 @@
 }
 
 /* spin pfp in settings */
-.avatarUploader-3XDtmn:hover {
+.flex-1xMQg5:hover .avatarUploader-3XDtmn {
   animation: rotation 2s infinite linear;
   background-color: transparent !important;
 }
