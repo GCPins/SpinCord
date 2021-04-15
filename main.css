@@ -178,7 +178,7 @@
 
 /* spin profile badges in settings spin */
 .profileBadge-2niAfJ:hover {
-  animation: rotation 1.5s infinite linear;
+  animation: rotation 2s infinite linear;
   background-color: transparent !important;
 }
 
@@ -196,7 +196,7 @@
 
 /* spin badges in settings */
 .profileBadge-2niAfJ:hover {
-  animation: rotation 2s infinite linear;
+  animation: rotation 2.3s infinite linear;
   background-color: transparent !important;
 }
 
@@ -331,7 +331,7 @@
 } 
 
 /* spin profile view game icon */
-.activityProfile-2bJRaP:hover .assetsLargeImageProfile-3YXDex {
+.activityProfile-2bJRaP:hover .assets-VMAukC {
   animation: rotation 3.3s infinite linear;
   background-color: transparent !important;
 }
