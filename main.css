@@ -22,26 +22,26 @@
 
 /* guild settings drop down icon rotate */
 .item-1tOPte:hover .iconContainer-2-XQPY {
-  animation: rotation 1.7s infinite linear;
+  animation: rotation 2s infinite linear;
   background-color: transparent !important;
 }
 
 /* guild boost badge rotate */
 .guildIconContainer-2FW_iA:hover {
-  animation: rotation 1.5s infinite linear;
+  animation: rotation 1.7s infinite linear;
   background-color: transparent !important;
 }
 
 /* channel icon spins 
 .iconContainer-1BBaeJ:hover {
-  animation: rotation 1.5s infinite linear;
+  animation: rotation 2.5s infinite linear;
   background-color: transparent !important;
 }
 */
 
 /* channel buttons spin */
 .iconItem-F7GRxr:hover {
-  animation: rotation 1.5s infinite linear;
+  animation: rotation 2s infinite linear;
   background-color: transparent !important;
 }
 
@@ -52,7 +52,7 @@
 }
 
 /* spin top right icons */
-.icon-22AiRD:hover {
+.container-1r6BKw:hover .icon-22AiRD {
   animation: rotation 1.7s infinite linear;
   background-color: transparent !important;
 }
@@ -77,7 +77,7 @@
 
 /* spin DM list buttons */
 .closeButton-2GCmT5:hover {
-  animation: rotation 1.5s infinite linear;
+  animation: rotation 2s infinite linear;
   background-color: transparent !important;
 }
 
@@ -89,25 +89,25 @@
 
 /* spin member list pfp */
 .layout-2DM8Md:hover .avatar-3uk_u9 {
-  animation: rotation 2s infinite linear;
+  animation: rotation 4s infinite linear;
   background-color: transparent !important;
 }
 
 /* spin in chat pfps */
 .zalgo-jN1Ica:hover .avatar-1BDn8e {
-  animation: rotation 2s infinite linear;
+  animation: rotation 4s infinite linear;
   background-color: transparent !important;
 }
 
 /* spin profile view pfps */
 .avatar-3EQepX:hover {
-  animation: rotation 2s infinite linear;
+  animation: rotation 4.3s infinite linear;
   background-color: transparent !important;
 }
 
 /* spin profile preview pfps */
 .userPopout-3XzG_A:hover .avatarWrapperNormal-3wFMbf {
-  animation: rotation 2.5s infinite linear;
+  animation: rotation 4.5s infinite linear;
   background-color: transparent !important;
 }
 
@@ -125,7 +125,7 @@
 
 /* spin connected account(s) icon */
 .flex-1xMQg5:hover .connectedAccountIcon-3P3V6F {
-  animation: rotation 2s infinite linear;
+  animation: rotation 2.3s infinite linear;
   background-color: transparent !important;
 }
 
@@ -186,15 +186,15 @@
 .menu-319q29:hover {
   animation: rotation 1.5s infinite linear;
   background-color: transparent !important;
-}
+}	
 
-/* does something */
+/* spin settings icons */
 .item-PXvHYJ:hover::before {
   animation: rotation 1.5s infinite linear;
   /* background-color: transparent !important; */
 }
 
-/* spin settings tab icons */
+/* spin badges in settings */
 .profileBadge-2niAfJ:hover {
   animation: rotation 1.5s infinite linear;
   background-color: transparent !important;
@@ -241,7 +241,91 @@
   background-color: transparent !important;
 }
 
+/* spin friends list pfps */
 .listItemContents-95HL3L:hover .avatar-3W3CeO {
   animation: rotation 2.3s infinite linear;
   background-color: transparent !important;
 }
+
+/* spin currently playing icon */
+.panel-24C3ux:hover .gameIcon-gg34Dz {
+  animation: rotation 2.3s infinite linear;
+  background-color: transparent !important;
+} 
+
+/* spin pending fr req. pfps */
+.listItemContents-2w6nwE:hover .avatar-3W3CeO {
+  animation: rotation 2.3s infinite linear;
+  background-color: transparent !important;
+}
+
+/* spin red bubble(s) under friends tabs */
+.item-3HknzM:hover .badge-1Skb69 {
+  animation: rotation 2.3s infinite linear;
+}
+
+/* spin blocked pfps */
+.listItemContents-BUaJR_:hover .avatar-3W3CeO {
+  animation: rotation 2.3s infinite linear;
+  background-color: transparent !important;
+}
+
+/* spin active now user pfps */
+.itemCard-v9viV7:hover .headerAvatar-2MDZJn {
+  animation: rotation 2.7s infinite linear;
+  background-color: transparent !important;
+}
+
+/* spin active now guild pfps */
+.itemCard-v9viV7:hover .voiceSectionAssets-1gjfmz {
+  animation: rotation 3.5s infinite linear;
+  background-color: transparent !important;
+}
+
+/* spin active now user pfps */
+.itemCard-v9viV7:hover .applicationStreamingAvatar-2iYCcz {
+  animation: rotation 2.7s infinite linear;
+  background-color: transparent !important;
+}
+
+/* spin active now game icons */
+.itemCard-v9viV7:hover .largeImage-DLXk-f {
+  animation: rotation 3s infinite linear;
+  background-color: transparent !important;
+}
+
+/* spin active now add. user pfps */
+.itemCard-v9viV7:hover .partyMember-1CzxeX {
+  animation: rotation 4s infinite linear;
+  background-color: transparent !important;
+}
+
+/* spin playing now game icons */
+.itemCard-v9viV7:hover .headerIcon-10Jegm {
+  animation: rotation 2.5s infinite linear;
+  background-color: transparent !important;
+}
+
+/* spin large pfp in dms */
+.wrapper-3t9DeA:hover {
+  animation: rotation 4s infinite linear;
+  background-color: transparent !important;
+}
+
+/* spin mutual servers icons in dms */
+.size16-1P40sf:hover .avatarContainer-3cVycu {
+  animation: rotation 2.3s infinite linear;
+  background-color: transparent !important;
+}
+
+/* spin user pfps in vc */
+.containerDefault--pIXnN:hover .avatarContainer-28iYmV {
+  animation: rotation 5s infinite linear;
+  background-color: transparent !important;
+} 
+
+/* spin muted/deafened icons in vc */
+.containerDefault--pIXnN:hover .icons-1dXQdz {
+  animation: rotation 2.7s infinite linear;
+  background-color: transparent !important;
+} 
