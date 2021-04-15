@@ -208,13 +208,13 @@
 
 /* spin mutual servers icons */
 .listRow-hutiT_:hover .icon-3o6xvg {
-  animation: rotation 2s infinite linear;
+  animation: rotation 4.5s infinite linear;
   background-color: transparent !important;
 }
 
 /* spin mutual friends icons */
 .listRow-hutiT_:hover .listAvatar-1NlAhb {
-  animation: rotation 2s infinite linear;
+  animation: rotation 4s infinite linear;
   background-color: transparent !important;
 }
 
