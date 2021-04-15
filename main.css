@@ -188,7 +188,7 @@
   background-color: transparent !important;
 }	
 
-/* spin settings icons */
+/* spin settings icons in certain themes (AMLOED-cord for ex.) */
 .item-PXvHYJ:hover::before {
   animation: rotation 1.5s infinite linear;
   /* background-color: transparent !important; */
@@ -329,3 +329,9 @@
   animation: rotation 2.7s infinite linear;
   background-color: transparent !important;
 } 
+
+/* spin profile view game icon */
+.activityProfile-2bJRaP:hover .assetsLargeImageProfile-3YXDex {
+  animation: rotation 2.7s infinite linear;
+  background-color: transparent !important;
+}
